@@ -3,7 +3,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import AsyncComponent from './components/ThunkActionsDisplay';
-import UserList from './components/UserList.jsX';
+import UserList from './components/UserList.jsx';
 import LoadingList from './components/LoadingList';
 import DataComponent from './components/DataComponent';
 import FetchUserList from './components/FetchUserList';
